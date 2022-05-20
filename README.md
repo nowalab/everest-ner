@@ -7,7 +7,7 @@ We have created the largest human annotated Named Entity Recognition (NER) data 
 * We report a comprehensive evaluation of state-of-the-art Neural and Transformer models using these data sets. We also discuss the remaining challenges for discovering NEs for Nepali (see our paper below).
 
 # Data Format
-The EverestNER data set is divided into train (EverestNER-train) and test (EverestNER-test) sets. Each data set has character level annotations (EverestNER-train-char.txt & EverestNER-test-char.txt) as well as token level annotations (EverestNER-train-bio.txt & EverestNER-test-bio.txt). Please read [our paper] (https://journals.flvc.org/FLAIRS/article/view/130725/133879) to get more information on this. 
+The EverestNER data set is divided into train (EverestNER-train) and test (EverestNER-test) sets. Each data set has character level annotations (EverestNER-train-char.txt & EverestNER-test-char.txt) as well as token level annotations (EverestNER-train-bio.txt & EverestNER-test-bio.txt). Please read [our paper](https://journals.flvc.org/FLAIRS/article/view/130725/133879) to get more information on this. 
 
 # License 
 Non-commercial purposes only. For commercial usages, permissions must be taken from the authors and the relevant parties. See the contact address below. 
@@ -15,7 +15,7 @@ Non-commercial purposes only. For commercial usages, permissions must be taken f
 Unless required by applicable law or agreed to in writing, software and data distributed here is on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
 # Cite Our Work
-If you use the EverestNER data set, please cite [our publication] https://journals.flvc.org/FLAIRS/article/view/130725/133879: 
+If you use the EverestNER data set, please cite [our publication](https://journals.flvc.org/FLAIRS/article/view/130725/133879): 
 ```bibtex
 @inproceedings{niraula2022named,
   title={Named Entity Recognition for Nepali: Data Sets and Algorithms},
