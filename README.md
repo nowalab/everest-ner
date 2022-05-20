@@ -1,5 +1,5 @@
-# EverestNER Benchmark Data Sets for Nepali Named Entity Recognition
-We have created the largest human annotated NER data set for Nepali available to date. Highlights: 
+# EverestNER - The Benchmark Data Set for Nepali NER
+We have created the largest human annotated Named Entity Recognition (NER) data set for Nepali available to date. Highlights: 
 
 * EverestNER covers five named entities - Person Name, Location, Organization, Event and Date. 
 * EverestNER has 24,587 entities, 308,353 tokens corresponding to 15,798 sentences 
