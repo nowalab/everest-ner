@@ -1,4 +1,4 @@
-# EverestNER Benchmark Data Sets
+# EverestNER Benchmark Data Sets for Nepali Named Entity Recognition
 We have created the largest NER benchmark data set for Nepali available to date. It covers five named entities - Person Name, Location, Organization, Event and Date. 
 
 The EverestNER data set is divided into EverestNER-train and EverestNER-test sets. Each data set has character level annotations (-char.txt as well as token level annotations -bio.txt). Please read our paper to get more information on this. 
